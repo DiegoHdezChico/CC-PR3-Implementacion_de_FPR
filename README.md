@@ -4,7 +4,7 @@ En este repositorio se alojan los ficheros relacionados con la práctica 3 de Co
 
 ## Consideraciones a tener en cuenta.
 
-### Acceso al repositorio en GitHub
+### Acceso al repositorio en GitHub.
 Para acceder al repositorio de GitHub de esta práctica, utilice [este enlace](https://github.com/DiegoHdezChico/CC-PR3-Implementacion_de_FPR.git).
 
 ### Compilar y ejecutar.
